@@ -23,6 +23,7 @@
             <groupId>kr.laeng</groupId>
             <artifactId>Probabiltem</artifactId>
             <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 ```
