@@ -1,0 +1,6 @@
+name: Probabiltem
+version: ${project.version}
+main: kr.laeng.probabiltem.Probabiltem
+load: STARTUP
+authors: [Laeng]
+depend: [ConfigManager, DataStorage]
