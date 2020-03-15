@@ -86,7 +86,7 @@ public final class Plugin extends JavaPlugin implements Listener {
 }
 ```
 
-##API 
+## API 
 아이템 획득률을 가져옵니다.
 ```
 double getPlayerProbability(Player player, MaterialType materialType)
